@@ -1,4 +1,4 @@
-# Jekflix Template
+# GYMBROS.
 
 ![Jekflix Template Cover Image](/src/img/GBRS-logo.png)
 
