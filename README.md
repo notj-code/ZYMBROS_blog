@@ -1,6 +1,6 @@
-# GYMBROS.
+# ZYMBROS.
 
-![Jekflix Template Cover Image](/src/img/GBRS-logo.png)
+ZYMBROS.
 
 
 ## What is it?
