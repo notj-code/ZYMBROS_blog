@@ -3,7 +3,7 @@
 ZYMBROS.
 
 
-## What is it?
+## What is it
 
 GYMBROS is a Personalized AI Fitness Trainer that helps you achieve your fitness goals.
 
